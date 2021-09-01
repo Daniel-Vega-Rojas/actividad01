@@ -1,0 +1,41 @@
+#titulo{       
+   background-color: aquamarine;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 50px;
+   text-align: center;
+
+ }
+
+ #titulo3{
+
+    background-color: antiquewhite;
+    font-size: 20px;   
+    font-family: Arial, Helvetica, sans-serif;
+    
+ }
+
+/* *{ */
+    /* margin: 0; */
+    /* padding: 0; */
+    /* box-sizing: border-box; */
+/* }  */
+
+.contenedor1 { 
+   border: 2px blue solid;
+   background-color:  antiquewhite;
+   position: absolute;
+
+   
+}
+
+.img {
+
+   position: static;
+   float :left;
+   }
+   
+#titulo4 {
+
+   text-align: center;
+}   
+  
